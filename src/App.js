@@ -12,7 +12,7 @@ console.log(process.env);
 
 
   const triggerFade = () => {
-    if(fade){
+    if(fade){ 
       playAudio()
 
       axios
